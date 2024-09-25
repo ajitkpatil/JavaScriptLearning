@@ -15,4 +15,5 @@ if (earyRegistrant && atheleteAge > 18) {
   console.log(
     `The race for youth will start at 12:30 pm. Race number ${raceNumber}`
   );
+  
 }
